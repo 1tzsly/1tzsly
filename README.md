@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hello 👋 i'm Soulaymane Bourzime
 
+trainee at CMC Casablanca-Settat who's trying to build his technical foundation in data engineering, data databases, and software tools. I'm actively learning and looking forward to create small, practical projects.
+
+### 🛠️ What I'm Learning & My Stack
+* **Languages:** Python, SQL
+* **Databases & Data:** MySQL, NoSQL, Hadoop (Big Data basics)
+* **Tools:** Git, GitHub, Linux Command Line
+
+📫 How to reach me: linked linkedIn or email s.bourzime@gmail.com
 <!--
 **1tzsly/1tzsly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
